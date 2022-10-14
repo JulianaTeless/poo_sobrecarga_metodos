@@ -1,11 +1,11 @@
 public class Impressora{
 
     public void exibir(float f1){
-        System.out.println("\nImprimindo: %f" + f1);
+        System.out.println("\nImprimindo:" + f1);
     }
 
     public void exibir(float f1, float f2){
-        System.out.println("\nImprimindo: " + f1 + ", " +f2);
+        System.out.println("\nImprimindo: " + f1 + ", " + f2);
     }
 
     public void exibir(float f1, String s1){
