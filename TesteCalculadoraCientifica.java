@@ -2,7 +2,7 @@ public class TesteCalculadoraCientifica {
     public static void main(String[] args) {
         CalculadoraCientifica calculator = new CalculadoraCientifica();
 
-        byte a = 3, b = -2;
+        byte a = 3, b = -1;
 
         System.out.println(calculator.raiz(4.4));
         System.out.println(calculator.raiz("4"));
